@@ -1,0 +1,298 @@
+ETHICAL AI USE CASE #1: TEN STEPS FOR USING A GENERATIVE AI PLATFORM TO CREATE A BUSINESS LOGO
+Karen Jensen | March 2026
+---
+This content aligns with the Four Pillars of ethics, privacy, accessibility, and data conservation as core values. We'll discuss these pillars and their importance as we move through this article.
+
+Full disclosure of the use of all supporting tools, AI and otherwise, is at the end.
+
+Three discussion questions are waiting for you at the end. I'm interested in how people will perceive this topic and the tools we will be discussing, so please take a look at those questions and respond.
+
+---
+
+TECH BUSINESS LEADERS ARE STRUGGLING WITH SCALING AI AND WARNING OF CIVILIZATION-LEVEL EVENTS
+---
+Scaling AI was a topic at the 2026 World Economic Forum Annual Meeting in Davos.
+https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/
+
+The CEO of Anthropic recently expressed a need for AI regulations to prevent a Civilization Level event. Forbes summarized Anthropic CEO's 38-page essay:
+https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks/
+
+These conversations matter because they set the context for why everyday creators — not just tech giants — need practical use cases, like this one, for using AI responsibly.
+
+You don't need the government to tell you how to be ethical, or to tell you how to build and deploy responsible and ethical solutions.
+
+IMO (In my opinion), these claims of difficulty in scaling, the concerns for epic events, or the demand for government regulation, by tech leaders are nothing more than attempting to opt out of blame if, and when, something goes wrong in these new deployments. In a rush to profit from these technologies, many of these organizations and leaders have bypassed ethical and responsible decision-making.
+
+ABOUT ME
+---
+I bring a career spanning government, industry, academia, and non-profit ecosystems, with current roles as a volunteer Senior AI Ethics Architect at Women in AI, an Associate Faculty member at the University of Arizona Global Campus, and an Executive Manager at a private holding company, The Find a Way Group, LLC.
+
+- Read about my work in the Women in AI Call for Expert series (2025):
+https://bit.ly/WAICallforExpertSeries2025
+- Explore my LinkedIn profile Innovation by Karen Jensen:
+https://bit.ly/47jrR6K
+
+RESPECTING YOUR TIME
+---
+- The Deep Dive: The Full Technical Breakdown: 6-7 more minutes of reading from here. Take the plunge!
+- The Short Summary: Short on time? Read the condensed version on Substack. https://open.substack.com/pub/innovationkj/p/ethical-ai-use-case-1-ten-steps-for?r=4aocus&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+- The Visual: Watch the approximately 11-minute video walkthrough. [VIMEO URL]
+- The Accessible PDF: Download the Accessible PDF. [PDF URL]
+- Plain Text version: You are reading it.
+
+WE HAVE A HISTORY OF IMPLEMENTING NEW TECHNOLOGIES WITH WELL-ESTABLISHED FRAMEWORKS
+---
+Implementing new technologies is not new. If you've worked in any IT domain, a Software Development Lifecycle, a Project Management ecosystem, or taken any IT or Business classes, this lifecycle should look familiar:
+
+- Planning: Ideation
+- Design: Specification
+- Development: Build
+- Implementation: Deploy
+- Testing and Monitoring: Validate
+
+There's no reason to believe that emerging technologies couldn't use the same lifecycle phases, and doing so would help produce more ethical outputs.
+
+OUR ETHICAL AI LIFECYCLE PHASES FOR LLM LOGO CREATION
+---
+- Planning: Idea: Create a business logo
+- Design: Specification: imagine an idea (lightbulb) or climbing a set of stairs to represent overcoming a challenge.
+- Development: Build: Create an image using prompts. Use due diligence to verify these outputs.
+- Implementation: Deploy the image, set in use date, apply for a trademark (country-specific), OR reject the image due to output challenges.
+- Testing and Monitoring: Ongoing monitoring of usage.
+
+*Tip: For image generation, it can be helpful to consider what your Alt-Text would be, sort of a reverse engineering methodology. All images should have Alt-Text descriptions or be set to a null value for decorative images.*
+
+---
+
+STEPS
+---
+Step 1: Gemini prompt: using black ink, please create an image of a stick man climbing up the stairs holding an idea lightbulb.
+- Output Alt-Text: In all black ink, a stick figure climbing stairs holding a lightbulb of innovation, date, time, and time zone stamp in corner.
+
+Step 2: Gemini prompt: Can you give this image a transparent background?
+- Note: indicating a transparent background does not help a reader understand the context of the image so this is not included in the Alt-Text.
+- Output Alt-Text: In all black ink, a stick figure climbing stairs holding a lightbulb of innovation, date, time, and time zone stamp in corner.
+
+Step 3: Gemini prompt: Can you remove the date and time stamp? I will cite this separately.
+- Note: Removing the timestamp does not remove your obligation to cite the source. As a best practice, creators should document and disclose the use of LLM tools in generating images, just as you would cite any other source.
+- Output Alt-Text: In all black ink, a stick figure climbing stairs holding a lightbulb of innovation.
+
+Step 4: Chrome search: I uploaded this image via images.google.com based on the response to this question: can I upload an image to chrome and do a search to see if that image exists already? (reverse image search)
+- Based on the response, I uploaded my Gemini created image to Chrome to search for it. The results of that search produced some 50 images. These images were not exact matches, but they were confusingly similar — appearing across multiple platforms and languages worldwide.
+
+I wondered, How could a Large Language Model generate an image that already exists on the Internet? I thought LLMs were creating original content!
+
+But in all fairness to Nano Banana 2.5 (the version I used), it did exactly what I asked it to, based on the prompts I gave it.
+
+For a minute, I got caught up in Correlation vs. Causation (TheDecisionLab, 2026)
+https://thedecisionlab.com/reference-guide/philosophy/correlation-vs-causation
+— assuming a relationship between two variables without considering other potential causes.
+
+I previously held a trademarked business logo, so I knew that, for Intellectual Property in the U.S., the authority is the United States Patent and Trademark Office.
+- Read the full USPTO.gov trademark search option: https://www.uspto.gov
+
+Step 5: USPTO.gov Trademark search: Image searches are based on the USPTO Trademark Design Search Code Manual and can be a combination of Design Codes.
+
+At USPTO.gov, in trademark design reviews, the standards are the likelihood of confusion and/or that the image is confusingly similar to an existing mark.
+
+Note: Professional legal guidance is strongly recommended. Additionally, there are other criteria that USPTO.gov uses to accept or reject trademark applications.
+
+It's not easy to determine which design this image falls under (I had no clue), so I went back to Gemini and asked for help.
+
+Step 6: Gemini prompt: How would you classify this image based on the USPTO trademark Design Search Code Manual?
+- Output: Returned four categories with sub codes:
+- 02.01.02: Shadow or silhouette of a man.
+- 02.01.33: Stick figures (men).
+- 02.01.07: Men engaged in some activity (climbing).
+- 13.01.02: Lightbulbs.
+- 26.11.21: Rectangles (representing the steps) forming a staircase.
+- 26.17.25: Other lines or bands (if the stairs are rendered as a simple series of lines).
+
+I went to the USPTO Trademark Design Manual. I didn't think Gemini matched the exact design codes in the Design Manual, but I think this is a taxonomy differential, and for this article, that differential isn't relevant to pursue.
+
+Step 7: Gemini prompt: When I check this image online it does seem confusingly similar to other images in existence and in use, a criterion of USPTO review. In an instance like this what would you recommend to do - start over? Modify the existing design? Was there a better prompt I could have used to avoid this?
+- Output: It is quite common to run into the confusingly similar (Likelihood of Confusion) hurdle when using universal symbols like stick figures and lightbulbs. It's usually easier to modify a prompt than to start over. To move beyond the Skelly rule — where stick figures are considered merely descriptive or ornamental — we need more distinction in our prompt.
+- Gemini asks: Would you like me to try generating a version of this concept that uses negative space or a more abstract, fanciful style to help differentiate it from existing trademarks?
+- Output: See full response and visuals in the video.
+
+Step 8: Gemini prompt: Yes, let's try that.
+- Output Alt-Text: A black/white drawing of a stick person ascending a set of curved steps towards a glowing lightbulb, a symbol of innovation.
+
+Step 9: Gemini prompt: I like this. Is there a way to harmonize this with the Justice, Equity, Diversity, and Inclusion (JEDI) — a framework for advancing fairness and belonging across communities and organizations — from the JEDI Collaborative, concepts. Not exact or copyright infringement, but a conceptual ideal.
+- Output Alt-Text: Abstract stick figure runs up curved colored stairs toward a lightbulb. Includes a compass rose with N, S, E, and W markers.
+
+Step 10: Gemini prompt: That's cool. Would adding words to the pathway also further distinguish, i.e., innovation, sustainability, etc.?
+- Output Alt-Text: Figure climbs curved steps labeled Justice, Inclusion, Diversity, Equity, Sustainability, Innovation to a bulb and compass.
+- Note: In shortening the Alt-Text, some of the context of the image was unfortunately lost. See the video for full visuals.
+
+In further modification prompts, I did start to see some hallucinations. Not relevant to the ethics conversation in this article, so they are not listed here.
+
+Gemini Summary and Final prompt: Without prompting, would you ever consider adding a disclaimer with your image generation that creators should practice due diligence in image use, including looking beyond this model?
+
+Output: Actually, that's a very sharp observation. As an AI, I don't currently volunteer a legal disclaimer unless the conversation pivots toward topics like trademarks, copyright, or commercial use — as ours did.
+
+See the full response in the video. There's an enlightening conversation about how LLMs generate images.
+
+---
+
+BUSINESS, RESPONSIBLE, AND ETHICAL QUESTIONS TO CONSIDER
+---
+If I stopped at Step 6, I would have decided that the image was confusingly similar to too many other images already in use/existence and would not use it for a logo.
+
+Here's why:
+
+Trademark infringement violations are no joke. If this happens to you, even if it's unintentional, you may be subject to civil penalties. There can also be criminal consequences of trademark infringement. All your marketing materials would have to be changed. Your customers would need to be notified of a business name change, and your business registration documents would need to be updated. You might even be required to close your existing business and start a new one.
+
+The ethical questions might be: what kind of business owner do you want to be? Is cutting corners ok with you? Are you thinking about what your personal and business legacy will be?
+
+Here's where the Human-In-The-Loop element of these applications works best.
+
+If you decide to move through Steps 7-10, you'll see that using well-defined prompts and challenging results yields a more realistic, robust output. A colleague of mine at WomeninAI.co did a great piece on prompt engineering titled Prompt like a Pro: AI Skills for Students and Young Professionals. It's a great read.
+
+---
+
+THE STATUS OF GOVERNMENT REGULATION FOR AI FRAMEWORKS
+---
+If, by chance, you are still waiting for the government to develop a policy and/or a regulatory framework, you may be in luck.
+
+In December 2025, the President issued Executive Order 14179. The purpose of this order is to clarify that to win, United States AI companies must be free to innovate without cumbersome regulation. It's early yet (we have until March/April 2026 to find out) to determine what cumbersome regulation is. If that regulation is limited or unclear, creators are left with the responsibility for ethical AI. Hopefully, this article helps with that.
+
+- Read the full Executive Order:
+https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+
+---
+
+FINAL THOUGHTS, CONTRADICTIONS, AND CONCLUSIONS.
+---
+The message here is not accusatory, but educational, and cautionary.
+
+This is a simple example, but it took me a couple of days to get through the prompts, responses, and the resource material. The accessibility part took considerably longer (see the Accessibility disclosure at the end).
+
+I'm satisfied with the results of this use case, even though they weren't what I expected. That's one truism of testing — you are always going to find something unexpected.
+
+I initially thought these LLM Image Generators were creating original content. That's really how they market themselves. But that's wrong.
+
+---
+
+CONTRADICTIONS
+---
+In the Gemini summary, I got a final disclaimer that says, I always recommend a formal trademark search and consultation with a design professional or legal counsel before using AI-generated assets for commercial branding.
+
+Gemini did not make that recommendation without prompting it.
+
+In fact, when asked in the Summary Prompt, Without prompting, would you ever consider adding a disclaimer with your image generation that creators should practice due diligence in image use, including looking beyond this model? — the response was:
+
+Actually, that's a very sharp observation. As an AI, I don't currently volunteer a legal disclaimer unless the conversation pivots toward topics like trademarks, copyright, or commercial use — as ours did.
+
+In other words, unless you ask, I won't tell you.
+
+I found more clarity on image generation practices on Google's blog, also not included in my interactions with the Gemini LLM Image Generator.
+
+Google states that all media generated by their tools are embedded with an imperceptible SynthID digital watermark, and that a visible watermark is maintained for free and Google AI Pro tier users. However, the visible watermark is removed for Google AI Ultra subscribers and within the Google AI Studio developer tool. (Google, 2025)
+
+- Read the full Google blog:
+https://blog.google/innovation-and-ai/products/nano-banana-pro/
+
+So there is an exception to that verification tool if you use Ultra or AI Studio. And as we saw in Step 3, even the imperceptible SynthID watermark can be removed simply by asking the LLM — raising further questions about the reliability of AI content verification tools.
+
+As a final note, according to USPTO.gov:
+
+A hallmark of U.S. law is that only natural persons can be properly named as inventors on patent applications. Inventor means the individual who invented or discovered the subject matter of the invention.
+
+- Read the full statement at USPTO.gov regarding natural persons:
+https://www.uspto.gov/subscription-center/2025/revised-inventorship-guidance-ai-assisted-inventions
+
+---
+
+CONCLUSION
+---
+I don't have much concern about using Artificial Intelligence to correct grammar or spelling errors. Beyond that, I'm mindful of how I use these applications. One way to be mindful, ethical, and responsible is to design use cases for these models, like this one, and share the outcomes.
+
+I hope you will all share your results, insights, and thoughts as we work towards Ethical and Human-Centric AI.
+
+---
+
+FULL DISCLOSURES
+---
+
+AI DISCLOSURE
+As an AI Ethicist, I believe transparency in the use of AI tools is a professional responsibility. All content in this article was written and created by me. Artificial Intelligence tools supported this work in specific, limited capacities as disclosed below, but were not used to compose, create, or co-author any portion of this article.
+
+- Microsoft Word spell check and grammar suggestions were used for proofreading.
+- ChatGPT, an OpenAI platform, was used to create the main presentation image: Trustworthy AI: LLM Image Generation, generated March 4, 2026.
+- Gemini, a Google AI platform, was used for all ten steps of the logo creation process as documented in this article.
+- Claude, an Anthropic AI platform, was used as a copy editor and accessibility consultant.
+- HeyGen, an AI video generation platform, was used for voice only narration. This was a deliberate choice to protect the author's personal voice and image amid the growing threat of deepfakes.
+
+Transparency in the use of AI tools is a professional and ethical responsibility. Many creators are not disclosing their use of AI tools (even though we know they are). I believe that needs to change.
+
+PRIVACY BY DESIGN DISCLOSURE
+Personal voice and image have been intentionally protected throughout this content. Voice only narration was deliberately chosen as a proactive commitment to privacy by design in an era of growing synthetic media and deepfake risks. This means building privacy protection into the content creation process from the start, rather than addressing privacy concerns after the fact.
+
+ACCESSIBILITY DISCLOSURE
+This article, its associated video, and its PDF were created with accessibility as an intentional practice, not an afterthought. In an age of information and emerging technologies, it should not be this difficult to make content accessible to everyone. And yet it is. The learning curve is real, the guidance is inconsistent, and the tools that claim to support accessibility by design do not always make it easy in practice. Microsoft PowerPoint, for example, has accessibility features built in, but finding them, understanding them, and applying them correctly requires significant independent research that goes well beyond what the platform proactively guides creators to do.
+
+This content was created in Microsoft PowerPoint and subsequently produced as a video using HeyGen. PowerPoint was specifically used for its built-in accessibility features, including alt text, reading order, and screen reader optimization. Reading order on all slides was manually verified using the PowerPoint Selection Pane. Some slides retain a Check Object Order advisory flag, which reflects a known PowerPoint limitation rather than an unresolved accessibility barrier.
+
+Every effort has been made to meet accessibility standards, including alt text for all images, closed captions on the video, optimized speaker notes for screen reader users, and accessible PDF formatting. If you encounter any accessibility barriers in this content, I welcome your feedback via the LinkedIn article. https://www.linkedin.com/pulse/ethical-ai-use-case-1-ten-steps-using-generative-platform-jensen-rzv2e/
+
+BANDWIDTH FOOTPRINT / DATA CONSERVATION DISCLOSURE
+Bandwidth footprint refers to the total data consumed to access digital content. Just as a carbon footprint measures environmental impact, a bandwidth footprint measures the data cost imposed on readers — and on the internet itself — by the content we create and publish. This content has been intentionally designed with data conservation in mind. Lower data usage equals lower energy consumption — from the device in your hand to the towers and data centers that deliver this content.
+
+Optimizations made:
+- Images converted to lightweight file formats where possible
+- Accessible PDF compressed while preserving all accessibility features
+- Video hosted on Vimeo with adaptive streaming
+- You are reading the plain text version
+
+Data conservation is an emerging consideration in ethical content design. Every optimization we make as creators contributes to a better, faster, and more equitable internet for everyone.
+
+---
+
+THANK YOU
+---
+A special thank you to everyone who read this far. You deserve a standing ovation! If you found this use case valuable, please share it with your network. This work was inspired by the ASCE Pathways to Inclusive Publishing Summit I attended in January 2026 — a gathering dedicated to advancing inclusive and accessible publishing practices across disciplines.
+
+The next use case is already in the works — stay tuned.
+
+---
+
+REFERENCES
+---
+Gregersen, E. (n.d.). History of Technology timeline. Britannica.com. Retrieved January 30, 2026.
+https://www.britannica.com/story/history-of-technology-timeline
+
+Hoang, J., and McCallion, P. (2026, January 23). Davos 2026: Leaders on why scaling AI still feels hard - and what to do about it. Weforum.org. Retrieved January 31, 2026.
+https://www.weforum.org/stories/2026/01/why-scaling-ai-feels-hard-and-what-to-do-about-it/
+
+Sircar, A. (2026, January 28). Anthropic CEO Warns Superhuman AI Could Arrive By 2027 With Civilization-Level Risks. Forbes.com. Retrieved January 31, 2026.
+https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks/
+
+Pilat, D., and Krastev, D. S. (n.d.). Correlation vs Causation. The Decision Lab. Retrieved February 1, 2026.
+https://thedecisionlab.com/reference-guide/philosophy/correlation-vs-causation
+
+(n.d.). Ensuring a National Policy Framework for Artificial Intelligence. Whitehouse.gov. Retrieved February 1, 2026.
+https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+
+(2025, November 20). Introducing Nano Banana Pro. Blog.Google. Retrieved February 1, 2026.
+https://blog.google/innovation-and-ai/products/nano-banana-pro/
+
+(2025, November 26). Revised inventorship guidance for AI-assisted inventions. USPTO.gov. Retrieved February 1, 2026.
+https://www.uspto.gov/subscription-center/2025/revised-inventorship-guidance-ai-assisted-inventions
+
+(n.d.). Master and Exceed the Microsoft PowerPoint Accessibility Checker. Binghamton.Teamdynamix.com. Retrieved March 10, 2026.
+https://binghamton.teamdynamix.com/TDClient/45/Portal/KB/ArticleDet?ID=21149
+
+---
+
+JOIN THE CONVERSATION
+---
+I would love to hear your thoughts. Share your answers to these questions in the comments of the companion LinkedIn post: https://www.linkedin.com/pulse/ethical-ai-use-case-1-ten-steps-using-generative-platform-jensen-rzv2e/
+
+- Before this article, did you think LLM Image Generators were creating original content?
+- Would you use an AI-generated logo for your business?
+- Would you declare that you used AI to generate the logo?
+
+---
+
+(c) 2026 Karen Jensen. All Rights Reserved.
